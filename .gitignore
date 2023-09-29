@@ -1,3 +1,14 @@
+# some files
+.idea
+cmake-*
+.DS_Store
+.vscode/
+build*/
+release*
+tsan*
+asan*
+
+
 # Prerequisites
 *.d
 
